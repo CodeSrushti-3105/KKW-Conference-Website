@@ -33,7 +33,7 @@ function Papers() {
             <ul>
                 <li>Prospective authors are invited to submit original and unpublished papers at the conference.</li>
                 <li>The papers submitted will undergo a peer review process for acceptance. The papers will be reviewed by technical experts.</li>
-                <li>All papers submitted to the ICEISF 2025, whether for review or publication, upon acceptance, must be written in English and formatted in the standard two-column IEEE format. The paper template is available at <a href="https://www.ieee.org/conferences/publishing/templates.html">Paper Templates</a> Papers are limited to six pages</li>
+                <li>All papers submitted to the ICEISF 2025, whether for review or publication, upon acceptance, must be written in English and formatted in the standard two-column IEEE format. The paper template is available at <a href="IEEE-conference-template.pdf" download="IEEE-conference-template.pdf">Paper Templates</a>. Papers are limited to six pages.</li>
                 <li>The conference will have Keynote Speeches, Oral Presentations, and Best Paper Awards. The papers accepted will be included in the conference proceeding upon presentation.</li>
                 <li>If a paper is accepted, at least one of the authors listed on the paper must attend the conference and present the paper according to the schedule decided by the conference’s technical program committee.</li>
                 <li>The technical program committee of the conference will decide on the inclusion of the paper in oral or poster sessions.</li>
