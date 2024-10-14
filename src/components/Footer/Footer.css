@@ -44,14 +44,6 @@
     transform: scale(1.1); /* Slight zoom-in effect */
 }
 
-/* .developers ul li a::before {
-    content: '\f08c'; /* Font Awesome icon for link */
-    font-family: 'Font Awesome 5 Free'; /* Ensure you have FontAwesome loaded */
-    font-weight: 900;
-    margin-right: 10px;
-    color: var(--secondary-color); /* Secondary color for icons */
-} */
-
 .developers ul li a:hover::before {
     color: chartreuse; /* Change icon color on hover */
 }
