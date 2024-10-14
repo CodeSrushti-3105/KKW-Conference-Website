@@ -52,7 +52,7 @@ export const OrganisingCommittee = [
     {
         post: "Convener",
         name: "Prof. Dr. P.J. Pawar",
-        desc: "Professor, Department of Robotics and Automation, \n KKWIEER, Nashik",
+        desc: "Head, Department of Robotics and Automation, \n KKWIEER, Nashik",
         img: O3A
     },
     {

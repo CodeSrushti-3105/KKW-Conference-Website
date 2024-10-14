@@ -7,6 +7,75 @@
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.1);
 }
 
+.developers {
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+.developers h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: var(--light-color); /* Use the light color variable */
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.developers ul {
+    list-style: none;
+    padding: 0;
+}
+
+.developers ul li {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.developers ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--light-color); /* Light color for links */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth hover effect */
+}
+
+.developers ul li a:hover {
+    color: chartreuse; /* Highlighted hover color */
+    transform: scale(1.1); /* Slight zoom-in effect */
+}
+
+/* .developers ul li a::before {
+    content: '\f08c'; /* Font Awesome icon for link */
+    font-family: 'Font Awesome 5 Free'; /* Ensure you have FontAwesome loaded */
+    font-weight: 900;
+    margin-right: 10px;
+    color: var(--secondary-color); /* Secondary color for icons */
+} */
+
+.developers ul li a:hover::before {
+    color: chartreuse; /* Change icon color on hover */
+}
+
+.developers ul li {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.developers ul li:hover {
+    transform: translateY(-5px); /* Add a slight upward motion on hover */
+}
+
+@media (max-width: 768px) {
+    .developers {
+        margin-top: 30px;
+    }
+
+    .developers ul li a {
+        font-size: 16px;
+    }
+}
+
+
 .footer img {
     width: 150px;
     margin-bottom: 20px;

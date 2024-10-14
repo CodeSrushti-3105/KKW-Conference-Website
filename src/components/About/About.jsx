@@ -3,12 +3,14 @@ import './About.css'
 import CollegeFrontImage from '../../assets/KKw-front-pic.jpeg'
 import NashikImage from '../../assets/nashik-pic.jpeg'
 import { HotelDetails } from '../../assets/assets.js'
+import Society from '../Society/Society.jsx'
 
 function About() {
     const isFirstDiv = true;
   return (
     <>
         <div className="about" id="about">
+            <Society/>
             <div className="about-clg">
                 <div className="about-clg-left">
                     <h2 className="about-clg-heading">About our Institute</h2>

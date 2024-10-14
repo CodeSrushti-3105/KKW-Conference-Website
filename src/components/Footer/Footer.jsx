@@ -14,7 +14,7 @@ function Footer() {
                 <div className="contact-card">
                     <div className="card-left">
                         <h3>Prof. Dr. P.J. Pawar</h3>
-                        <p>Professor, Department of Mechanical Engineering</p>
+                        <p>Head, Department of Robotics & Automation Engineering, KKWIEER</p>
                         <p>K.K. Wagh Institute of Engineering Education and Research, Amrutdham, Panchavati, Nashik 422003, MS, India</p>
                         <p><strong>Mobile:</strong> +91 8983050973</p>
                         <p><strong>Email:</strong> pjpawar@kkwagh.edu.in</p>
@@ -26,7 +26,7 @@ function Footer() {
                 <div className="contact-card">
                     <div className="card-left">
                         <h3>Prof. Dr. R. K. Munje</h3>
-                        <p>Dean R and D, Head, Department of Electrical Engineering</p>
+                        <p>Dean R and D, Head, Department of Electrical Engineering, KKWIEER</p>
                         <p>K.K. Wagh Institute of Engineering Education and Research, Amrutdham, Panchavati, Nashik 422003, MS, India</p>
                         <p><strong>Mobile:</strong> +91 9923181711</p>
                         <p><strong>Email:</strong> rkmunje@kkwagh.edu.in</p>
@@ -98,6 +98,14 @@ function Footer() {
                 <hr />
                 <div className="copyright center">
                     <p>&copy; 2024 KKWIEER. All rights reserved.</p>
+                </div>
+                <div className="developers">
+                    <h3>Developers</h3>
+                    <ul>
+                        <li><i className="fa-solid fa-link"></i>  <a href="https://www.linkedin.com/in/sanket-belekar-79210228a/">Sanket K. Belekar</a></li>
+                        <li><i className="fa-solid fa-link"></i>  <a href="https://www.linkedin.com/in/srushti-ahire-87bbb1289/">Srushti A. Ahire</a></li>
+                        <li><i className="fa-solid fa-link"></i>  <a href="https://www.linkedin.com/in/meghraj-bhavsar-3449ba289/">Meghraj N. Bhavsar</a></li>
+                    </ul>
                 </div>
             </div>
         </>
