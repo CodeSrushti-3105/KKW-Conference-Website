@@ -58,6 +58,7 @@ function Registration() {
             <li>Name of account: Principal, K. K. Wagh Institute of Engineering and Research, Nashik.</li>
             <li>Name of the Bank: Bank of India</li>
             <li>Address of bank: Adgaon Naka, Nashik</li>
+            <li>Account Number: 081021110000008</li>
             <li>Account type: Current</li>
             <li>IFSC code: BKID0000810</li>
             <li>MICR Code: 422013007</li>
