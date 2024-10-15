@@ -115,7 +115,7 @@ export const InternationalMembers = [
     },
     {
         name: "Krishna Vedula",
-        desc: "Professor",
+        desc: "Executive Director,IUCEE",
         image: Image17
     },
     {
