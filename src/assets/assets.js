@@ -14,7 +14,7 @@ import Image13 from '../assets/PDJadhao.jpeg'
 import Image14 from '../assets/SNJain.jpeg'
 import Image15 from '../assets/VCBagal.jpeg'
 import Image16 from '../assets/SPDhake.jpeg'
-import Image17 from '../assets/KVedula.jpeg'
+
 import Image18 from '../assets/Justyna.jpg'
 
 import Hotel1 from '../assets/hotel.jpeg'
@@ -113,11 +113,7 @@ export const InternationalMembers = [
         desc: "Assoc. Prof. EE (Control), National Yunlin University (Taiwan)",
         image: Image1
     },
-    {
-        name: "Krishna Vedula",
-        desc: "Executive Director, IUCEE", 
-        image: Image17
-    },
+    
     {
         name: "Dr. Sanjib Kumar Panda",
         desc: "National University of Singapore",
