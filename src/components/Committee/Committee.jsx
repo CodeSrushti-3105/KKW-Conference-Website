@@ -29,7 +29,7 @@ function Committee() {
           }
         </div>
         <div className="international-committee-details m-top">
-          <h2>INTERNATIONAL COMMITTEE MEMBERS</h2>
+          <h2>INTERNATIONAL / NATIONAL ADVISORY COMMITTEE MEMBERS</h2>
           <div className="members-grid">
             {
               InternationalMembers.map((item, index) => (

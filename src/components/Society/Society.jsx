@@ -59,7 +59,7 @@ function Society() {
           <p>
             A small sapling planted by Karmaveer Kakasaheb Wagh has grown into a big tree with 36 branches and over
             21,000 students engaged in studies from K.G. to Ph.D. in various fields. There are over 1,900 dedicated
-            employees following Indian ethics and striving hard towards developing world-class institutes. Over 50,000
+            employees following Indian ethics and striving hard towards developing world-class institutes. Over 70,000
             alumni members spread across the globe are the brand ambassadors for K.K.Wagh Education Society.
           </p>
         </div>

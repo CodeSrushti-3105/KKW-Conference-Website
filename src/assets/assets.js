@@ -14,6 +14,8 @@ import Image13 from '../assets/PDJadhao.jpeg'
 import Image14 from '../assets/SNJain.jpeg'
 import Image15 from '../assets/VCBagal.jpeg'
 import Image16 from '../assets/SPDhake.jpeg'
+import Image17 from '../assets/KVedula.jpeg'
+import Image18 from '../assets/Justyna.jpg'
 
 import Hotel1 from '../assets/hotel.jpeg'
 import Hotel2 from '../assets/hotel2.jpg'
@@ -35,6 +37,17 @@ import T5 from '../assets/KPBirla.jpeg'
 import T6 from '../assets/SNChaudhary.jpg'
 import T7 from '../assets/SKahandal.jpeg'
 import T8 from '../assets/PRBeldar.jpg'
+
+import i1 from '../assets/MVAware.jpeg.jpg'
+import i2 from '../assets/NMali.jpeg.jpg'
+import i3 from '../assets/RBhoi.png'
+import i4 from '../assets/SUpadhyay.jpg'
+import i5 from '../assets/VMPhalle.jpeg.jpg'
+import i6 from '../assets/RRastogi.jpeg.jpg'
+import i7 from '../assets/RKumar.jpeg.jpg'
+import i8 from '../assets/GVGarje.jpeg.jpg'
+import i9 from '../assets/MAkarte.jpeg.jpg'
+import i10 from '../assets/SChiddarwar.jpeg.jpg'
 
 export const OrganisingCommittee = [
     {
@@ -69,9 +82,28 @@ export const OrganisingCommittee = [
     },
     {
         post: "Coordinator",
-        name: "Prof. Dr. Swapnali Jagtap",
+        name: "Prof. Dr. S.N. Jagtap",
         desc: "Assistant Professor, Department of Information Technology,\n KKWIEER, Nashik",
         img: O4B
+    }
+]
+
+export const datesTable = [
+    {
+        event: "Full Length Paper Submission",
+        date: "November 15, 2024"
+    },
+    {
+        event: "Acceptance Notification",
+        date: "December 15, 2024"
+    },
+    {
+        event: "Camera REady Paper/Copyright Form and Registration Deadline",
+        date: "December 25, 2024"
+    },
+    {
+        event: "Conference Dates",
+        date: "January 6-7, 2025"
     }
 ]
 
@@ -82,9 +114,19 @@ export const InternationalMembers = [
         image: Image1
     },
     {
+        name: "Krishna Vedula",
+        desc: "Executive Director, IUCEE", 
+        image: Image17
+    },
+    {
         name: "Dr. Sanjib Kumar Panda",
         desc: "National University of Singapore",
         image: Image2
+    },
+    {
+        name: "Prof. Justyna",
+        desc: "University Of Zielona Gora",
+        image: Image18
     },
     {
         name: "Dr. M.U.Kharat",
@@ -110,6 +152,56 @@ export const InternationalMembers = [
         name: "Dr. B.N. Chowdhary",
         desc: "Principal, Sardar Patel Institute of Technology, Mumbai",
         image: Image7
+    },
+    {
+        name: "Dr. M. V. Aware",
+        desc: "Professor and Director, National Institute of Technology, Arunachal Pradesh",
+        image: i1
+    },
+    {
+        name: "Dr. Nilesh Mali",
+        desc: "Principal Scientist & Associate Professor (AcSIR), NCL Pune",
+        image: i2
+    },
+    {
+        name: "Dr. Rohida Bhoi",
+        desc: "Assistant Professor, Malaviya National Institute Technology,Jaipur",
+        image: i3
+    },
+    {
+       name: "Dr. Sanjay Upadhyay",
+       desc: "Professor, Department of Mechanical and Industrial Engineering,IIT Roorkee",
+       image: i4
+    },
+    {
+       name: "Dr V.M. Phalle",
+       desc: "Associate Professor, Department of Mechanical Engineering,Veermata Jijabai Technological Institute H. R. Mahajani Marg, Matunga East, Mumbai",
+       image: i5
+    },
+    {
+       name: "Dr. Rajat Rastogi",
+       desc: "Professor in Transportation Engineering, Department of Civil Engineering, Indian Institute of Technology, Roorkee",
+       image: i6
+    },
+    {
+       name: "Dr. Rakesh Kumar",
+       desc: "Professor,Transportation Engineering and Planning Section, Civil Engineering Department, S.V. National Institute of Technology, Surat",
+       image: i7
+    },
+    {
+       name: "Dr. G. V. Garje",
+       desc: "Joint Director, Technical Education Regional Office Nashik, Principal at Government Polytechnic Nashik.",
+       image: i8
+    },
+    {
+      name: "Prof. Milind Akarte",
+      desc: "Professor, IIM Mumbai",
+      image: i9
+    },
+    {
+      name: "Prof. Sheetal Chiddarwar",
+      desc: "Professor, VNIT, Nagpur",
+      image: i10
     },
 ]
 
@@ -163,22 +255,14 @@ export const LocalAdvisoryCommittee = [
 
 export const tableData = [
     {
-        category: "Student",
+        category: "UG Students",
         members: "Rs. 2000",
-        nonMembers: "Rs. 3000",
-        internation: "$250"
+        nonMembers: "$50",
     },
     {
-        category: "Others",
-        members: "Rs. 5000",
-        nonMembers: "Rs. 6000",
-        internation: "$400"
-    },
-    {
-        category: "Acedemician",
+        category: "PG students/Ph. D. Scholars/Academician/ Industry Professionals",
         members: "Rs. 3000",
-        nonMembers: "Rs. 2000",
-        internation: "$350"
+        nonMembers: "$75",
     }
 ]
 
