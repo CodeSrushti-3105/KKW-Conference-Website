@@ -16,6 +16,8 @@ import Image15 from '../assets/VCBagal.jpeg'
 import Image16 from '../assets/SPDhake.jpeg'
 import Image17 from '../assets/Vedula.jpeg'
 import Image18 from '../assets/Justyna.jpg'
+import Image19 from '../assets/R.V.Rao.jpg'
+import Image20 from '../assets/Singh.jpg'
 
 import Hotel1 from '../assets/hotel.jpeg'
 import Hotel2 from '../assets/hotel2.jpg'
@@ -109,34 +111,25 @@ export const datesTable = [
 
 export const InternationalMembers = [
     {
-        name: "Dr. Saleh Mobayen",
-        desc: "Assoc. Prof. EE (Control), National Yunlin University (Taiwan)",
-        image: Image1
-    },
-    {
-        name: "Krishna Vedula",
+        name: "Dr. Krishna Vedula",
         desc: "Executive Director,IUCEE",
         image: Image17
     },
+    {
+        name: "Dr. Justyna Patalas-Maliszewska",
+        desc: "University of Zielona, Gora, Poland",
+        image: Image18
+    },
+    
     {
         name: "Dr. Sanjib Kumar Panda",
         desc: "National University of Singapore",
         image: Image2
     },
     {
-        name: "Prof. Justyna",
-        desc: "University Of Zielona Gora",
-        image: Image18
-    },
-    {
-        name: "Dr. M.U.Kharat",
-        desc: "Vice Chancellor, G H Raisoni International Skill Tech University Pune",
-        image: Image3
-    },
-    {
-        name: "Dr.R.K. Jain",
-        desc: "Vice Chancellor at Ajeenkya DY Patil University, Pune",
-        image: Image4
+        name: "Dr. Saleh Mobayen",
+        desc: "Electrical Department, National Yunlin University, Taiwan",
+        image: Image1
     },
     {
         name: "Dr. S.G.Deshmukh	",
@@ -145,63 +138,85 @@ export const InternationalMembers = [
     },
     {
         name: "Dr. Rajul Gajjar",
-        desc: "Vice Chancellor,Guj. Technological Univ Ahmedabad, Gujarat",
+        desc: "Vice Chancellor, GTU Ahmedabad, Gujarat",
         image: Image6
     },
+    
     {
-        name: "Dr. B.N. Chowdhary",
-        desc: "Principal, Sardar Patel Institute of Technology, Mumbai",
-        image: Image7
+        name: "Dr. M.U.Kharat",
+        desc: "Vice Chancellor, G H Raisoni International Skill Tech University Pune",
+        image: Image3
+    },
+    {
+        name: "Dr.R.K. Jain",
+        desc: "Vice Chancellor, Ajeenkya D.Y. Patil University, Pune",
+        image: Image4
     },
     {
         name: "Dr. M. V. Aware",
-        desc: "Professor and Director, National Institute of Technology, Arunachal Pradesh",
+        desc: "Director, NIT Arunachal Pradesh",
         image: i1
     },
+    {
+        name: "Dr. D.N.Singh",
+        desc: "Professor, IIT , Bombay",
+        image: Image20
+    },
+    {
+        name: "Dr. Milind Akarte",
+        desc: "Professor, IIM Mumbai",
+        image: i9
+      },
+      {
+        name: "Dr. R.V.Rao",
+        desc: "Professor, SVNIT, Surat",
+        image: Image19
+    },
+      {
+        name: "Dr. G. V. Garje",
+        desc: "Joint Director, Technical Education Regional Office Nashik, Principal at Government Polytechnic Nashik.",
+        image: i8
+     },
+     {
+        name: "Dr. Sanjay Upadhyay",
+        desc: "Professor, Department of Mechanical and Industrial Engineering,IIT Roorkee",
+        image: i4
+     },
+     {
+        name: "Dr. Rajat Rastogi",
+        desc: "Professor, Transportation Engineering, Department of Civil Engineering, IIT, Roorkee",
+        image: i6
+     },
+     {
+        name: "Dr. Sheetal Chiddarwar",
+        desc: "Professor, VNIT, Nagpur",
+        image: i10
+      },
+    {
+        name: "Dr. B.N. Chowdhary",
+        desc: "Principal, SPIT, Mumbai",
+        image: Image7
+    },
+    {
+        name: "Dr V.M. Phalle",
+        desc: "Associate Professor, Department of Mechanical Engineering, VJTI, Mumbai",
+        image: i5
+     },
+     {
+        name: "Dr. Rakesh Kumar",
+        desc: "Professor,Transportation Engineering and Planning Section, Civil Engineering Department, SVNIT, Surat",
+        image: i7
+     },
+     {
+        name: "Dr. Rohida Bhoi",
+        desc: "Assistant Professor, Malaviya NIT, Jaipur",
+        image: i3
+    },
+    
     {
         name: "Dr. Nilesh Mali",
         desc: "Principal Scientist & Associate Professor (AcSIR), NCL Pune",
         image: i2
-    },
-    {
-        name: "Dr. Rohida Bhoi",
-        desc: "Assistant Professor, Malaviya National Institute Technology,Jaipur",
-        image: i3
-    },
-    {
-       name: "Dr. Sanjay Upadhyay",
-       desc: "Professor, Department of Mechanical and Industrial Engineering,IIT Roorkee",
-       image: i4
-    },
-    {
-       name: "Dr V.M. Phalle",
-       desc: "Associate Professor, Department of Mechanical Engineering,Veermata Jijabai Technological Institute H. R. Mahajani Marg, Matunga East, Mumbai",
-       image: i5
-    },
-    {
-       name: "Dr. Rajat Rastogi",
-       desc: "Professor in Transportation Engineering, Department of Civil Engineering, Indian Institute of Technology, Roorkee",
-       image: i6
-    },
-    {
-       name: "Dr. Rakesh Kumar",
-       desc: "Professor,Transportation Engineering and Planning Section, Civil Engineering Department, S.V. National Institute of Technology, Surat",
-       image: i7
-    },
-    {
-       name: "Dr. G. V. Garje",
-       desc: "Joint Director, Technical Education Regional Office Nashik, Principal at Government Polytechnic Nashik.",
-       image: i8
-    },
-    {
-      name: "Prof. Milind Akarte",
-      desc: "Professor, IIM Mumbai",
-      image: i9
-    },
-    {
-      name: "Prof. Sheetal Chiddarwar",
-      desc: "Professor, VNIT, Nagpur",
-      image: i10
     },
 ]
 
