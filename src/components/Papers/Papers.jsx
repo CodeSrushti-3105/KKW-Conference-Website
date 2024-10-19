@@ -1,6 +1,7 @@
 import React from 'react'
 import './Papers.css'
 import bgImg from '../../assets/papers-bg-img.jpg'
+ 
 
 function Papers() {
   return (
@@ -33,7 +34,7 @@ function Papers() {
                 <p>All papers submitted to the ICEISF 2025 will be peer reviewed by the technical experts. The paper must be written in English and formatted in the format as per the template mentioned in the link below:  </p>
                 <li>The length of the papers is limited to six pages only.  </li>
                 <li>If a paper is accepted, at least one of the authors listed on the paper must attend the conference and present the paper according to the schedule. </li>
-                <li>The manuscript should be submitted online through  <a href="https://docs.google.com/document/d/1p2S2PBQQCKsC08gTmT6PvCVSgGY1Pa1G/edit?usp=sharing&ouid=105476196515762730459&rtpof=true&sd=true">Paper Template</a></li>
+                <li>The manuscript should be submitted online through  <a href="https://docs.google.com/document/d/1p2S2PBQQCKsC08gTmT6PvCVSgGY1Pa1G/edit?usp=sharing&ouid=105476196515762730459&rtpof=true&sd=true"> Paper Template</a></li>
             </ul>
         </div>
         <div className="papers-paper-presentation">

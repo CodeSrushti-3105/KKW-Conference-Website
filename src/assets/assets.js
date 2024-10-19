@@ -154,7 +154,7 @@ export const InternationalMembers = [
     },
     {
         name: "Dr. M. V. Aware",
-        desc: "Director, NIT Arunachal Pradesh",
+        desc: "Director, NIT, Arunachal Pradesh",
         image: i1
     },
     {
@@ -179,12 +179,12 @@ export const InternationalMembers = [
      },
      {
         name: "Dr. Sanjay Upadhyay",
-        desc: "Professor, Department of Mechanical and Industrial Engineering,IIT Roorkee",
+        desc: "Professor, IIT Roorkee",
         image: i4
      },
      {
         name: "Dr. Rajat Rastogi",
-        desc: "Professor, Transportation Engineering, Department of Civil Engineering, IIT, Roorkee",
+        desc: "Professor, IIT, Roorkee",
         image: i6
      },
      {
@@ -199,12 +199,12 @@ export const InternationalMembers = [
     },
     {
         name: "Dr V.M. Phalle",
-        desc: "Associate Professor, Department of Mechanical Engineering, VJTI, Mumbai",
+        desc: "Associate Professor, VJTI, Mumbai",
         image: i5
      },
      {
         name: "Dr. Rakesh Kumar",
-        desc: "Professor,Transportation Engineering and Planning Section, Civil Engineering Department, SVNIT, Surat",
+        desc: "Professor, SVNIT, Surat",
         image: i7
      },
      {
