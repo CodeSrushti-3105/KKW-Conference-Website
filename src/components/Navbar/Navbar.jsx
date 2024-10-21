@@ -28,6 +28,7 @@ function Navbar() {
           <Link to='/committee' className={activeLink === 'Committee' ? 'active' : ''} onClick={() => handleLinkClick('Committee')}>Committee</Link>
           <Link to='/call-for-papers' className={activeLink === 'Call for papers' ? 'active' : ''} onClick={() => handleLinkClick('Call for papers')}>Call for papers</Link>
           <Link to='/registration' className={activeLink === 'Registration' ? 'active' : ''} onClick={() => handleLinkClick('Registration')}>Registration</Link>
+          <Link to='/brochure' onClick={() => handleLinkClick('Brochure')} className={activeLink === 'Brochure' ? 'active' : ''}>Brochure</Link>
           <Link to='/footer' className={activeLink === 'Contact Us' ? 'active' : ''} onClick={() => handleLinkClick('Contact Us')}>Contact Us</Link>
         </div>
         <div className="navbar-right">
@@ -44,6 +45,7 @@ function Navbar() {
           <Link to='/committee' onClick={() => handleLinkClick('Committee')}>Committee</Link>
           <Link to='/call-for-papers' onClick={() => handleLinkClick('Call for papers')}>Call for papers</Link>
           <Link to='/registration' onClick={() => handleLinkClick('Registration')}>Registration</Link>
+          <Link to='/brochure' onClick={() => handleLinkClick('Brochure')}>Brochure</Link>
           <Link to='/footer' onClick={() => handleLinkClick('Contact Us')}>Contact Us</Link>
         </div>
       )}

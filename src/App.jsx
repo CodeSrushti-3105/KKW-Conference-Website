@@ -6,6 +6,7 @@ import Home from './pages/Home/Home'
 import Committee from './components/Committee/Committee';
 import Papers from './components/Papers/Papers';
 import Registration from './components/Registration/Registration';
+import Brochure from './components/Brochure/Brochure';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
         <Route path="/committee" element={<Committee/>} /> 
         <Route path="/call-for-papers" element={<Papers/>} /> 
         <Route path="/registration" element={<Registration/>} />
+        <Route path="/Brochure" element={<Brochure/>} />
+
       </Routes>
       <Footer />
     </div>

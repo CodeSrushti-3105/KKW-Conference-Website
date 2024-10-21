@@ -124,6 +124,14 @@
     flex-wrap: wrap;
     gap: 50px;
 }
+.quick-links a {
+    color: rgb(75, 141, 234); /* Replace this with the desired color for all links */
+}
+
+.quick-links a.about-us,
+.quick-links a.events {
+    color: rgb(75, 141, 234); /* Replace this with the desired color */
+}
 
 .left-content, .right-content {
     /* flex: 1; */

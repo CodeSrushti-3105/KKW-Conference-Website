@@ -289,6 +289,7 @@ export const HotelDetails = [
     },
     {
         name: "IRA By Orchid Hotels Nashik",
+        
         address: "Address: Near Nasardi Bridge, Nashik - Pune Road, Nashik, Maharashtra 422011",
         phone: "86526 36363"
     },

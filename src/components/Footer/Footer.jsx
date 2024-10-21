@@ -50,7 +50,7 @@ function Footer() {
                                 </li>
                                 <li>
                                     <span><span className="icon"><i className="fa-solid fa-envelope"></i></span>Email:</span>
-                                    <p>kkwieer@kkw.edu.in, kkwieer@gmail.com</p>
+                                    <p>Kkwieer@kkwagh.edu.in, kkwieer@gmail.com</p>
                                 </li>
                                 <li>
                                     <span><span className="icon"><i className="fa-solid fa-phone"></i></span>Phone:</span>
