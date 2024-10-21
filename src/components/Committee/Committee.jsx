@@ -1,6 +1,6 @@
 import React from 'react';
 import './Committee.css';
-import { InternationalMembers, LocalAdvisoryCommittee } from '../../assets/assets.js';
+import { InternationalMembers, LocalAdvisoryCommittee, newMembers } from '../../assets/assets.js';
 import { OrganisingCommittee } from '../../assets/assets.js';
 import { technicalMembers } from '../../assets/assets.js';
 
@@ -76,7 +76,7 @@ function Committee() {
         </div>
         <div className="technical-committee m-top">
           <h2>TECHNICAL COMMITTEE MEMBERS</h2>
-          <div className="members-grid">
+          {/* <div className="members-grid">
             {
               technicalMembers.map((item, index) => (
                 <div key={index} className="card">
@@ -93,6 +93,19 @@ function Committee() {
                   </div>
                 </div>
               ))
+            }
+          </div> */}
+          <div className="parent">
+            {
+              newMembers.map((item, index) => {
+                return(
+                  <div key={index} className="card-content">
+                     <div className="body-title">
+                     <h3> {item}</h3>
+                  </div>
+                </div>
+                )
+              })
             }
           </div>
         </div>
