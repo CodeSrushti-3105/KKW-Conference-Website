@@ -54,8 +54,8 @@ import i10 from '../assets/SChiddarwar.jpg'
 export const OrganisingCommittee = [
     {
         post: "Patron",
-        name: "Hon. Shri  S. B. Wagh",
-        desc: "Chairman, K.K Wagh Education Society, Nashik.",
+        name: "Hon. Shri.  S. B. Wagh",
+        desc: "Chairman, K.K. Wagh Education Society, Nashik.",
         img: O1
     },
     {
@@ -358,11 +358,12 @@ export const newMembers = [
 'Dr. G. B. Dabhade',
 'Dr. M. N. Shelar',
 'Dr. V. K Matsagar',
+'Dr. Ajinkya Joshi',
 'Prof. S. S. Dongare',
 'Prof. S. S. Bhandare',
-'Prof A_ J_ Pawar',
+'Prof A. J. Pawar',
 'Prof. Suman Kahnadal',
-'Dr. N. B. Gunde',
+'Dr. N. B. Gurule',
 'Dr. S. A. Tripathi',
 'Prof I. Priydarshini',
 'Prof. Shraddha Shelke',
@@ -371,9 +372,8 @@ export const newMembers = [
 'Dr. Yennam Rajesh',
 'Prof. S. U. Pandit',
 'Prof. P. D. Raklbe',
-'Prof- Snehal Chadudhari',
+'Prof. Snehal Chaudhari',
 'Prof. N. Mawal',
-'Dr. S. X Khaire (AIDS)',
 'Dr. V. Dhawale',
 'Dr. S. A. Khaire',
 'Dr. Ruchira Gaidhani',
