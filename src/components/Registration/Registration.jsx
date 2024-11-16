@@ -18,13 +18,19 @@ function Registration() {
               </tr>
             </thead>
             <tbody>
-              {datesTable.map((item, index) => (
-                <tr key={index}>
-                  <td>{item.event}</td>
-                  <td>{item.date}</td>
-                </tr>
-              ))}
-            </tbody>
+  {datesTable.map((item, index) => (
+    <tr key={index}>
+      <td>{item.event}</td>
+      <td>
+        {index === 0 ? (
+          <span dangerouslySetInnerHTML={{ __html: item.date }} />
+        ) : (
+          item.date
+        )}
+      </td>
+    </tr>
+  ))}
+</tbody>
           </table>
         </div>
         <div className="registration-fees">
