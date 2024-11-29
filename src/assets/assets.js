@@ -93,7 +93,7 @@ export const OrganisingCommittee = [
 export const datesTable = [
     {
       event: "Full Length Paper Submission",
-      date: '<del>November 15, 2024</del> <span style="font-weight: bold; color: red;">Extended Date:</span> <span style="color: red;">November 25, 2024</span>'
+      date: '<del>November 15, 2024</del> <span style="font-weight: bold; color: red;">Extended Date:</span> <span style="color: red;">December 10, 2024</span>'
     },
     {
       event: "Acceptance Notification",
@@ -110,7 +110,7 @@ export const datesTable = [
   ];
   
   // Update only the first date
-  datesTable[0].date = '<del>November 15, 2024</del> <span style="font-weight: bold; color: red;">Extended Date:</span> <span style="color: red;">November 25, 2024</span>';
+  datesTable[0].date = '<del>November 15, 2024</del> <span style="font-weight: bold; color: red;">Extended Date:</span> <span style="color: red;">December 10, 2024</span>';
   
 
 export const InternationalMembers = [
